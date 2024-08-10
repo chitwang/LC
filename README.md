@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
+## Binary Search
+|  |
+| ------- |
+| [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
+## Greedy
+|  |
+| ------- |
+| [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
+## Sorting
+|  |
+| ------- |
+| [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
