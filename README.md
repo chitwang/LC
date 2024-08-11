@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Memoization
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Matrix
+|  |
+| ------- |
+| [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
