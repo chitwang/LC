@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
+| [1332-count-vowels-permutation](https://github.com/chitwang/LC/tree/master/1332-count-vowels-permutation) |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
