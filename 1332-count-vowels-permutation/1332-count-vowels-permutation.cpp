@@ -19,7 +19,7 @@ public:
         }
         int ans = 0;
         for(int j=0;j<5;j++){
-            cout << dp[n-1][j] << " " ;
+            // cout << dp[n-1][j] << " " ;
             ans = (ans + dp[n-1][j])%mod;
         }
         return ans;
