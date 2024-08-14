@@ -67,9 +67,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
 | [1499-maximum-performance-of-a-team](https://github.com/chitwang/LC/tree/master/1499-maximum-performance-of-a-team) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chitwang/LC/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+## Hash Table
+|  |
+| ------- |
+| [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
+## Stack
+|  |
+| ------- |
+| [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
+## Design
+|  |
+| ------- |
+| [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
 <!---LeetCode Topics End-->
