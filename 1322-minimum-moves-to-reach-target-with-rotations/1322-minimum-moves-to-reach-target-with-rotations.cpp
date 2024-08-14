@@ -53,7 +53,7 @@ public:
         mp[sn] = 0;
         while(!q.empty()){
             auto x = q.front();
-            cout << x.x1 << " " << x.y1 << " " << x.x2 << " " << x.y2 << endl;
+            // cout << x.x1 << " " << x.y1 << " " << x.x2 << " " << x.y2 << endl;
             q.pop();
             vector<snake> mvs = get_moves(grid, x);
             for(auto it:mvs){
