@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
 | [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
 | [1332-count-vowels-permutation](https://github.com/chitwang/LC/tree/master/1332-count-vowels-permutation) |
 | [1343-dice-roll-simulation](https://github.com/chitwang/LC/tree/master/1343-dice-roll-simulation) |
@@ -85,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
+## Tree
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
+## Depth-First Search
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
+## Binary Tree
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
 <!---LeetCode Topics End-->
