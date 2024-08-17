@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chitwang/LC/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1343-dice-roll-simulation](https://github.com/chitwang/LC/tree/master/1343-dice-roll-simulation) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
 | [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
 | [1332-count-vowels-permutation](https://github.com/chitwang/LC/tree/master/1332-count-vowels-permutation) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
 ## Binary Search
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chitwang/LC/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 ## Heap (Priority Queue)
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chitwang/LC/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 ## Hash Table
 |  |
@@ -93,9 +98,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
+## Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
