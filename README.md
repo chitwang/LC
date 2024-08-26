@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chitwang/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
 | [1499-maximum-performance-of-a-team](https://github.com/chitwang/LC/tree/master/1499-maximum-performance-of-a-team) |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/chitwang/LC/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/chitwang/LC/tree/master/2462-find-the-k-sum-of-an-array) |
 ## Breadth-First Search
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/chitwang/LC/tree/master/2207-sequentially-ordinal-rank-tracker) |
 ## Tree
 |  |
 | ------- |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2198-process-restricted-friend-requests](https://github.com/chitwang/LC/tree/master/2198-process-restricted-friend-requests) |
+## Data Stream
+|  |
+| ------- |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/chitwang/LC/tree/master/2207-sequentially-ordinal-rank-tracker) |
+## Ordered Set
+|  |
+| ------- |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/chitwang/LC/tree/master/2207-sequentially-ordinal-rank-tracker) |
 <!---LeetCode Topics End-->
