@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> toposort;
+    stack<int> toposort;
     vector<vector<int>> adj;
     vector<bool> vis;
     void dfs(int i){
@@ -9,7 +9,8 @@ public:
             if(!vis[it])
                 dfs(it);
         }
-        toposort.push_back(i);
+        // toposort.push_back(i);
+        toposort.push(i);
     } 
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
         adj.resize(n);
@@ -25,9 +26,11 @@ public:
                 dfs(i);
             }
         }
-        reverse(toposort.begin(), toposort.end());
+        // reverse(toposort.begin(), toposort.end());
         vector<int> dp(n);
-        for(auto i:toposort){
+        while(toposort.size()){
+            int i = toposort.top();
+            toposort.pop();
             int maxprev = 0;
             for(auto it:adj2[i]){
                 maxprev = max(maxprev, dp[it]);
