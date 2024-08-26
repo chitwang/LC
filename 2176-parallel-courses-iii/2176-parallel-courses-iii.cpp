@@ -16,7 +16,7 @@ public:
         adj.resize(n);
         vis.resize(n, false);
         vector<vector<int>> adj2(n);
-        for(auto it:relations){
+        for(auto &it:relations){
             it[0]--;it[1]--;
             adj[it[0]].push_back(it[1]);
             adj2[it[1]].push_back(it[0]);
@@ -32,7 +32,7 @@ public:
             int i = toposort.top();
             toposort.pop();
             int maxprev = 0;
-            for(auto it:adj2[i]){
+            for(auto &it:adj2[i]){
                 maxprev = max(maxprev, dp[it]);
             }    
             dp[i] = maxprev + time[i];
