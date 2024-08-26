@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chitwang/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [1499-maximum-performance-of-a-team](https://github.com/chitwang/LC/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
+| [2213-find-all-people-with-secret](https://github.com/chitwang/LC/tree/master/2213-find-all-people-with-secret) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/chitwang/LC/tree/master/2462-find-the-k-sum-of-an-array) |
 ## String
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/chitwang/LC/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chitwang/LC/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+| [2213-find-all-people-with-secret](https://github.com/chitwang/LC/tree/master/2213-find-all-people-with-secret) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/chitwang/LC/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2213-find-all-people-with-secret](https://github.com/chitwang/LC/tree/master/2213-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/chitwang/LC/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/chitwang/LC/tree/master/2198-process-restricted-friend-requests) |
+| [2213-find-all-people-with-secret](https://github.com/chitwang/LC/tree/master/2213-find-all-people-with-secret) |
 ## Topological Sort
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2198-process-restricted-friend-requests](https://github.com/chitwang/LC/tree/master/2198-process-restricted-friend-requests) |
+| [2213-find-all-people-with-secret](https://github.com/chitwang/LC/tree/master/2213-find-all-people-with-secret) |
 ## Data Stream
 |  |
 | ------- |
