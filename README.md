@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/chitwang/LC/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2198-process-restricted-friend-requests](https://github.com/chitwang/LC/tree/master/2198-process-restricted-friend-requests) |
 ## Topological Sort
 |  |
 | ------- |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [2198-process-restricted-friend-requests](https://github.com/chitwang/LC/tree/master/2198-process-restricted-friend-requests) |
 <!---LeetCode Topics End-->
