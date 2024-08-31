@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/chitwang/LC/tree/master/0403-frog-jump) |
+| [0552-student-attendance-record-ii](https://github.com/chitwang/LC/tree/master/0552-student-attendance-record-ii) |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
 | [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
 | [1332-count-vowels-permutation](https://github.com/chitwang/LC/tree/master/1332-count-vowels-permutation) |
