@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/chitwang/LC/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/chitwang/LC/tree/master/2462-find-the-k-sum-of-an-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/chitwang/LC/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/chitwang/LC/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/chitwang/LC/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/chitwang/LC/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/chitwang/LC/tree/master/2213-find-all-people-with-secret) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/chitwang/LC/tree/master/2462-find-the-k-sum-of-an-array) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/chitwang/LC/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## String
 |  |
 | ------- |
