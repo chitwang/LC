@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-find-the-k-sum-of-an-array](https://github.com/chitwang/LC/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chitwang/LC/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
+| [2703-handling-sum-queries-after-update](https://github.com/chitwang/LC/tree/master/2703-handling-sum-queries-after-update) |
 | [2846-robot-collisions](https://github.com/chitwang/LC/tree/master/2846-robot-collisions) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/chitwang/LC/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/chitwang/LC/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chitwang/LC/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2703-handling-sum-queries-after-update](https://github.com/chitwang/LC/tree/master/2703-handling-sum-queries-after-update) |
 ## Merge Sort
 |  |
 | ------- |
