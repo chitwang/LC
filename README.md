@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/chitwang/LC/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/chitwang/LC/tree/master/1907-count-pairs-with-xor-in-a-range) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/chitwang/LC/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/chitwang/LC/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/chitwang/LC/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -91,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/chitwang/LC/tree/master/1907-count-pairs-with-xor-in-a-range) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/chitwang/LC/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/chitwang/LC/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bitmask
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/chitwang/LC/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
