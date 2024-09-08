@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2703-handling-sum-queries-after-update](https://github.com/chitwang/LC/tree/master/2703-handling-sum-queries-after-update) |
 | [2846-robot-collisions](https://github.com/chitwang/LC/tree/master/2846-robot-collisions) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/chitwang/LC/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/chitwang/LC/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/chitwang/LC/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chitwang/LC/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/chitwang/LC/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/chitwang/LC/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/chitwang/LC/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/chitwang/LC/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/chitwang/LC/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Bitmask
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chitwang/LC/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2703-handling-sum-queries-after-update](https://github.com/chitwang/LC/tree/master/2703-handling-sum-queries-after-update) |
+| [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/chitwang/LC/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Merge Sort
 |  |
 | ------- |
