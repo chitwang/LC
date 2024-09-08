@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/chitwang/LC/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/chitwang/LC/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
 ## Stack
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/chitwang/LC/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2198-process-restricted-friend-requests](https://github.com/chitwang/LC/tree/master/2198-process-restricted-friend-requests) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
 ## Binary Search Tree
 |  |
@@ -269,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/chitwang/LC/tree/master/1907-count-pairs-with-xor-in-a-range) |
+## Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
