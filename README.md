@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1499-maximum-performance-of-a-team](https://github.com/chitwang/LC/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
+| [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/chitwang/LC/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/chitwang/LC/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
 | [1499-maximum-performance-of-a-team](https://github.com/chitwang/LC/tree/master/1499-maximum-performance-of-a-team) |
+| [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/chitwang/LC/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/chitwang/LC/tree/master/2462-find-the-k-sum-of-an-array) |
 ## Breadth-First Search
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
+| [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Trie
 |  |
@@ -289,8 +292,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
+| [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
+| [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
