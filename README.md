@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chitwang/LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/chitwang/LC/tree/master/0403-frog-jump) |
 | [1223-graph-connectivity-with-threshold](https://github.com/chitwang/LC/tree/master/1223-graph-connectivity-with-threshold) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chitwang/LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
 | [1499-maximum-performance-of-a-team](https://github.com/chitwang/LC/tree/master/1499-maximum-performance-of-a-team) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/chitwang/LC/tree/master/2207-sequentially-ordinal-rank-tracker) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Trie
 |  |
@@ -282,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
