@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/chitwang/LC/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/chitwang/LC/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3551-maximum-xor-score-subarray-queries](https://github.com/chitwang/LC/tree/master/3551-maximum-xor-score-subarray-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3551-maximum-xor-score-subarray-queries](https://github.com/chitwang/LC/tree/master/3551-maximum-xor-score-subarray-queries) |
 ## Memoization
 |  |
 | ------- |
