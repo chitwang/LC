@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/chitwang/LC/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/chitwang/LC/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chitwang/LC/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2703-handling-sum-queries-after-update](https://github.com/chitwang/LC/tree/master/2703-handling-sum-queries-after-update) |
 | [2846-robot-collisions](https://github.com/chitwang/LC/tree/master/2846-robot-collisions) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Trie
 |  |
 | ------- |
@@ -295,9 +297,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
