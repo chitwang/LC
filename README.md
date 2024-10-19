@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-find-the-k-sum-of-an-array](https://github.com/chitwang/LC/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chitwang/LC/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/chitwang/LC/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2703-handling-sum-queries-after-update](https://github.com/chitwang/LC/tree/master/2703-handling-sum-queries-after-update) |
 | [2846-robot-collisions](https://github.com/chitwang/LC/tree/master/2846-robot-collisions) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chitwang/LC/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/chitwang/LC/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/chitwang/LC/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 ## Greedy
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/chitwang/LC/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/chitwang/LC/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/chitwang/LC/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Sorting
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/chitwang/LC/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Union Find
 |  |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/chitwang/LC/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Trie
 |  |
 | ------- |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/chitwang/LC/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
