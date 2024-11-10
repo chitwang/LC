@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/chitwang/LC/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/chitwang/LC/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chitwang/LC/tree/master/0783-search-in-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/chitwang/LC/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/chitwang/LC/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chitwang/LC/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/chitwang/LC/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/chitwang/LC/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chitwang/LC/tree/master/0783-search-in-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/chitwang/LC/tree/master/0099-recover-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/chitwang/LC/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
