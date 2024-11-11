@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/chitwang/LC/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Backtracking
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
 | [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2068-maximum-genetic-difference-query](https://github.com/chitwang/LC/tree/master/2068-maximum-genetic-difference-query) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
