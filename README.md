@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/chitwang/LC/tree/master/2846-robot-collisions) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/chitwang/LC/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/chitwang/LC/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3376-longest-common-suffix-queries](https://github.com/chitwang/LC/tree/master/3376-longest-common-suffix-queries) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/chitwang/LC/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/chitwang/LC/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/chitwang/LC/tree/master/2687-lexicographically-smallest-beautiful-string) |
+| [3376-longest-common-suffix-queries](https://github.com/chitwang/LC/tree/master/3376-longest-common-suffix-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/chitwang/LC/tree/master/1907-count-pairs-with-xor-in-a-range) |
 | [2068-maximum-genetic-difference-query](https://github.com/chitwang/LC/tree/master/2068-maximum-genetic-difference-query) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/chitwang/LC/tree/master/3197-maximum-strong-pair-xor-ii) |
+| [3376-longest-common-suffix-queries](https://github.com/chitwang/LC/tree/master/3376-longest-common-suffix-queries) |
 ## Counting
 |  |
 | ------- |
