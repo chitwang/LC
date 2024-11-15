@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2275-find-substring-with-given-hash-value](https://github.com/chitwang/LC/tree/master/2275-find-substring-with-given-hash-value) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/chitwang/LC/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3376-longest-common-suffix-queries](https://github.com/chitwang/LC/tree/master/3376-longest-common-suffix-queries) |
 ## Backtracking
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
 | [1286-constrained-subsequence-sum](https://github.com/chitwang/LC/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
+| [2275-find-substring-with-given-hash-value](https://github.com/chitwang/LC/tree/master/2275-find-substring-with-given-hash-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/chitwang/LC/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -351,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [2275-find-substring-with-given-hash-value](https://github.com/chitwang/LC/tree/master/2275-find-substring-with-given-hash-value) |
+## Hash Function
+|  |
+| ------- |
+| [2275-find-substring-with-given-hash-value](https://github.com/chitwang/LC/tree/master/2275-find-substring-with-given-hash-value) |
 <!---LeetCode Topics End-->
