@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/chitwang/LC/tree/master/0403-frog-jump) |
 | [1223-graph-connectivity-with-threshold](https://github.com/chitwang/LC/tree/master/1223-graph-connectivity-with-threshold) |
 | [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
+| [1286-constrained-subsequence-sum](https://github.com/chitwang/LC/tree/master/1286-constrained-subsequence-sum) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/chitwang/LC/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1343-dice-roll-simulation](https://github.com/chitwang/LC/tree/master/1343-dice-roll-simulation) |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/chitwang/LC/tree/master/0552-student-attendance-record-ii) |
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
 | [1234-number-of-paths-with-max-score](https://github.com/chitwang/LC/tree/master/1234-number-of-paths-with-max-score) |
+| [1286-constrained-subsequence-sum](https://github.com/chitwang/LC/tree/master/1286-constrained-subsequence-sum) |
 | [1332-count-vowels-permutation](https://github.com/chitwang/LC/tree/master/1332-count-vowels-permutation) |
 | [1343-dice-roll-simulation](https://github.com/chitwang/LC/tree/master/1343-dice-roll-simulation) |
 | [1376-selling-pieces-of-wood](https://github.com/chitwang/LC/tree/master/1376-selling-pieces-of-wood) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chitwang/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [1270-dinner-plate-stacks](https://github.com/chitwang/LC/tree/master/1270-dinner-plate-stacks) |
+| [1286-constrained-subsequence-sum](https://github.com/chitwang/LC/tree/master/1286-constrained-subsequence-sum) |
 | [1499-maximum-performance-of-a-team](https://github.com/chitwang/LC/tree/master/1499-maximum-performance-of-a-team) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/chitwang/LC/tree/master/2207-sequentially-ordinal-rank-tracker) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
+| [1286-constrained-subsequence-sum](https://github.com/chitwang/LC/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
+| [1286-constrained-subsequence-sum](https://github.com/chitwang/LC/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/chitwang/LC/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chitwang/LC/tree/master/0239-sliding-window-maximum) |
+| [1286-constrained-subsequence-sum](https://github.com/chitwang/LC/tree/master/1286-constrained-subsequence-sum) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/chitwang/LC/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Two Pointers
