@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/chitwang/LC/tree/master/1503-reducing-dishes) |
 | [1622-max-value-of-equation](https://github.com/chitwang/LC/tree/master/1622-max-value-of-equation) |
 | [1907-count-pairs-with-xor-in-a-range](https://github.com/chitwang/LC/tree/master/1907-count-pairs-with-xor-in-a-range) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/chitwang/LC/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/chitwang/LC/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2068-maximum-genetic-difference-query](https://github.com/chitwang/LC/tree/master/2068-maximum-genetic-difference-query) |
 | [2176-parallel-courses-iii](https://github.com/chitwang/LC/tree/master/2176-parallel-courses-iii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/chitwang/LC/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [1223-graph-connectivity-with-threshold](https://github.com/chitwang/LC/tree/master/1223-graph-connectivity-with-threshold) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/chitwang/LC/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/chitwang/LC/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Combinatorics
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1223-graph-connectivity-with-threshold](https://github.com/chitwang/LC/tree/master/1223-graph-connectivity-with-threshold) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/chitwang/LC/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/chitwang/LC/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Simulation
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1947-number-of-different-subsequences-gcds](https://github.com/chitwang/LC/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/chitwang/LC/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Queue
 |  |
