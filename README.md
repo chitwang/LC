@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0809-preimage-size-of-factorial-zeroes-function](https://github.com/chitwang/LC/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/chitwang/LC/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/chitwang/LC/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/chitwang/LC/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0809-preimage-size-of-factorial-zeroes-function](https://github.com/chitwang/LC/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [1223-graph-connectivity-with-threshold](https://github.com/chitwang/LC/tree/master/1223-graph-connectivity-with-threshold) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/chitwang/LC/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/chitwang/LC/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
