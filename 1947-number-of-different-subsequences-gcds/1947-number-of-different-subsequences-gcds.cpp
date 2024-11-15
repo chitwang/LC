@@ -12,8 +12,9 @@ public:
             for(int j=i; j<=m; j+= i){
                 if(st.count(j))
                     g = __gcd(g, j);
+                if(g == i){    
+                    ans++; break;}
             }
-            ans += (g == i);
         }
         return ans;
     }
