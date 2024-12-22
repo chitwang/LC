@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/chitwang/LC/tree/master/1008-binary-tree-cameras) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/chitwang/LC/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/chitwang/LC/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-maximum-genetic-difference-query](https://github.com/chitwang/LC/tree/master/2068-maximum-genetic-difference-query) |
 | [2213-find-all-people-with-secret](https://github.com/chitwang/LC/tree/master/2213-find-all-people-with-secret) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/chitwang/LC/tree/master/2652-count-number-of-possible-root-nodes) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/chitwang/LC/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
