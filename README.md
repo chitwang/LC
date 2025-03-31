@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
 | [0834-ambiguous-coordinates](https://github.com/chitwang/LC/tree/master/0834-ambiguous-coordinates) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/chitwang/LC/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2275-find-substring-with-given-hash-value](https://github.com/chitwang/LC/tree/master/2275-find-substring-with-given-hash-value) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/chitwang/LC/tree/master/2687-lexicographically-smallest-beautiful-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0834-ambiguous-coordinates](https://github.com/chitwang/LC/tree/master/0834-ambiguous-coordinates) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/chitwang/LC/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/chitwang/LC/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Bit Manipulation
