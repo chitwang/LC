@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/chitwang/LC/tree/master/0567-permutation-in-string) |
+| [0834-ambiguous-coordinates](https://github.com/chitwang/LC/tree/master/0834-ambiguous-coordinates) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2275-find-substring-with-given-hash-value](https://github.com/chitwang/LC/tree/master/2275-find-substring-with-given-hash-value) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/chitwang/LC/tree/master/2687-lexicographically-smallest-beautiful-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0834-ambiguous-coordinates](https://github.com/chitwang/LC/tree/master/0834-ambiguous-coordinates) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/chitwang/LC/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/chitwang/LC/tree/master/2189-maximum-path-quality-of-a-graph) |
 ## Bit Manipulation
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2275-find-substring-with-given-hash-value](https://github.com/chitwang/LC/tree/master/2275-find-substring-with-given-hash-value) |
+## Enumeration
+|  |
+| ------- |
+| [0834-ambiguous-coordinates](https://github.com/chitwang/LC/tree/master/0834-ambiguous-coordinates) |
 <!---LeetCode Topics End-->
